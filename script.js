@@ -18,7 +18,7 @@ noBtn.addEventListener('mouseover', () => {
 });
 yesBtn.addEventListener("click",()=>
 {
-    alert("glad that you acccepted this ");
+    alert("glad that you acccepted this , text me the details");
 })
 
 noBtn.addEventListener('click', (event) => {
